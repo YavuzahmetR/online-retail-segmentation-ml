@@ -3,7 +3,9 @@ __pycache__/
 .ruff_cache/
 *.pyc
 .venv/
+.cache/
 
 # Keep large source exports outside Git. Download details are in README.md.
 Year 2009-2010.csv
 Year 2010-2011.csv
+online_retail_II.xlsx
